@@ -1,12 +1,11 @@
-
-
+![Frame 26](https://user-images.githubusercontent.com/77648727/112773651-9a13af80-8feb-11eb-9b91-7f572d95348f.png)
 
 
 ## Name
 
-### README.md Generator 🌈
+### README.md Generator 🤓
 
-This application is built fof UCB'S coding bootcamp challenge #6: a weather dashboard that runs in the browser and features dynamically updated HTML and CSS. It leverages the Open Weather API for data.
+Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 
 ### Live Application Link 👀
@@ -15,6 +14,8 @@ See live application [here](xx)
 
 ### Built With 🧰
 - [x] HTML
+- [x] Node
+- [x] Inquirer.js
 
 
 #### Complete 🌞
@@ -47,21 +48,15 @@ See live application [here](xx)
 
 ## Project Visual 😎
 
-#### From assignment:   
-
-
 #### Project Execution:   
 
 
 ## Acknowledgement, & Resources 🤝
 
 ### Official OpenWeather API Documentation :cloud:
-- [xxn](xx)
+- [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
+- [Inquirer Package](https://www.npmjs.com/package/inquirer)
 
-
-### How to Guides from Throughout the Web :sunny:
-- [xxn](xx)
-  
 
 ### Additional Documents & Links 🌧️      
 - [xxn](xx)
