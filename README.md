@@ -8,28 +8,22 @@
 Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 
-### Live Application Link 👀
-See live application [here](xx)
+#### Application Demo 👀
 
 
-### Built With 🧰
+#### Built With 🧰
 - [x] HTML
 - [x] Node
 - [x] Inquirer.js
 
-
-#### Complete 🌞
-- Users 
-
-
-### User Story 📖
+#### User Story 📖
 
 > AS A developer       
 > I WANT a README generator       
 > SO THAT I can quickly create a professional README for a new project       
 
 
-### Acceptance Criteria ✅
+#### Acceptance Criteria ✅
 > GIVEN a command-line application that accepts user input       
 > WHEN I am prompted for information about my application repository       
 > THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions       
@@ -45,10 +39,6 @@ See live application [here](xx)
 > THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions       
 > WHEN I click on the links in the Table of Contents       
 > THEN I am taken to the corresponding section of the README          
-
-## Project Visual 😎
-
-#### Project Execution:   
 
 
 ## Acknowledgement, & Resources 🤝
