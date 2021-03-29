@@ -43,12 +43,12 @@ Create a command-line application that dynamically generates a professional READ
 
 ## Acknowledgement, & Resources 🤝
 
-### Official OpenWeather API Documentation :cloud:
+#### Official OpenWeather API Documentation :cloud:
 - [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer)
 
 
-### Additional Documents & Links 🌧️      
+#### Additional Documents & Links 🌧️      
 - [xxn](xx)
 
 
