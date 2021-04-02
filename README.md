@@ -12,7 +12,17 @@ Use Node.js to build a program that creates an HTML portfolio page. It will use 
 - [x] NPM
 - [x] Inquirer.js
 
+### Installation & Usage
+npm init
+npm install inquirer
 
+To use, run the following command at th root of your project:
+
+node index.js
+
+Then, complete the question series.
+
+    
 #### User Story 📖
 > AS A developer       
 > I WANT a README generator       
@@ -41,6 +51,6 @@ Use Node.js to build a program that creates an HTML portfolio page. It will use 
 - [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer)
 
-
+https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts    
 #### Additional Documents & Links       
 - [xxn](xx)
