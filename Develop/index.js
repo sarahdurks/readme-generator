@@ -1,8 +1,10 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require('inquirer');
 
-inquirer
-    .prompt([
+
+
+function askUser(){
+ return inquirer.prompt([
         {
             type: 'input',
             name: 'name',
@@ -60,21 +62,21 @@ inquirer
             name: 'tests',
             message: 'Describe any testing processes.',
         },
-
-
     ])
     .then(answers => {
         console.info('Answers:', answers);
     });
+};
 
-// TODO: Create an array of questions for user input
-const questions = [];
+async function init() {
+    try {
+const answers = await askUser();
+const buildContent = createReadMe(answers);
+writeAsync('./written/README.md', buildContent);
+        console.log('README.md successfully created.');
+    }   catch(err) {
+        console.log(err);
+}
+}
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
-
-// TODO: Create a function to initialize app
-function init() { }
-
-// Function call to initialize app
-init();
+init();  

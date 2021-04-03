@@ -2,9 +2,8 @@
 function createReadMe(answers) {
     return `
 
-# Project ${answers.projectName} 🏆 
+# Project ${answers.name} 🏆 
 
-${answers.projectDescription} 
  
 ## Table of Contents
 
