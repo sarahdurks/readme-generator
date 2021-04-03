@@ -1,31 +1,53 @@
 
+function createReadMe(answers) {
+    return `
 
-
-# ${answers.projectName} 🏆 
+# Project ${answers.projectName} 🏆 
 
 ${answers.projectDescription} 
-🧠 
+ 
+## Table of Contents
 
-## Tools,Packages, & Languages Used 🧰 
+- [Description](#description)
+- [Installation](#installation)
+- [Languages & Tools](#toolkit)
+- [License](#licensing)
+- [Contributing](#credits)
+- [Tests](#tests)
+- [Contact](#contact)
 
-${answers.projectComposition}  
+### Description
+
+${answers.description} 
+
+### Installation
+
+${answers.installation}  
+
+
+### Toolkit 🧰 
+
+${answers.composition}  
 
 ### Licensing
 
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+My application is covered by the ${answers.licensing}license. 
+![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
 
-My application is covered by the ${answers.license} license. 
+### Credits 🤝 
+${answers.credits} 
 
- 
-### How to Get Started
-  ${answers.projectInstallation}  
+### Tests
+${answers.tests}
 
-  
-## Contributors, Credits,and Resources 
-${answers.projectCredits} 
 
-#### Project Contributors 🤝 
- 
-${answers.contributing}
+### Contact
 
-_This README was generated with 🧡  by [The Ultimate README.md generator]https://github.com/sarahdurks/readme-generator) 
+Get in touch: [${answers.username}](https://github.com/${answers.username})
+
+
+This README was generated with 🧡  by [The Ultimate README.md generator]https://github.com/sarahdurks/readme-generator) 
+`;
+}
+
+module.exports = createReadMe;
