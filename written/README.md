@@ -1,6 +1,6 @@
 
 
-# Project Name: ProjectIdeaName 🏆 
+# COOLPROJECT 🏆 
 
 ## Table of Contents ![badge](https://img.shields.io/badge/license-undefined-blue)
 
@@ -15,13 +15,13 @@
 
 ### Description 💡 <a name="description"></a>
 
-description of ht project. 
+a read me generator 
 
 ### Installation 💾 <a name="installation"></a>
 
-Here's how you setup this project:
+Here's how you setup this project:<br />
 
-set up by 1 2 3  
+download inquirer  
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
@@ -33,20 +33,21 @@ This application is covered by the undefined license.
 
 ### Usage 💥 <a name="usage"></a> 
 
-no rules 
+no rules! 
 
 ### Tests 💎  <a name="tests"></a> 
 
-testing 
+i did console log testing 
 
 ### Contributing 🤝 <a name="contributing"></a> 
 
-Resources and people who contributed include: my homework and internet guides 
+Resources and people who contributed include: internet guides and past bootcamp homework 
+<br />
 If you would like to contribute to the project further, then: say hi on twitter 
 
 ### Questions 😊 <a name="questions"></a> 
 Get in touch with me on Github: [sarahdurks](https://github.com/sarahdurks)
-
-If you have any questions, please contact me at: sarah@email.com
+<br />
+If you have any questions, please contact me at: sarah@gmail.com
 
 ###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
