@@ -1,29 +1,38 @@
 
 
-# Project Name: Cool Project 2 🏆 
+# Project Name: The coolest project 🏆 
 
-### Description 💡
+## Table of Contents
 
-Super cool stuff 
+- [Description](###Description)
+- [Installation](###Installation)
+- [Toolkit](###Toolkit)
+- [Licensing](###Licensing)
+- [Credits](###Credits)
+- [Contact](###Contact)
 
-### Installation 💾
+###Description 💡
+
+A readme generator 
+
+###Installation 💾
 
 Here's how you setup this project:
 
-Get inquirer  
+Download inquirer from npm.  
 
-### Toolkit 🧰 
+###Toolkit 🧰 
 
-  
+JavaScript  
 
-### Licensing ![badge](https://img.shields.io/badge/license-undefined-blue)
+###Licensing ![badge](https://img.shields.io/badge/license-undefined-blue)
 
 This application is covered by the undefined license. 
 
-### Credits 🤝 
-Lots of guides. 
+###Credits 🤝 
+Lots of online guides. 
 
-### Contact 👋
+###Contact 👋
 Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
 
 
