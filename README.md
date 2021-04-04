@@ -10,7 +10,7 @@ A node.js program that shows a user a series of questions and creates a professi
 #### Built With 🧰
 
 - [x] HTML / Markdown
-- [x] Node
+- [x] Node.js
 - [x] Inquirer
 - [x] Axios
 - [x] Util
