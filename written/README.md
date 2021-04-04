@@ -1,39 +1,55 @@
 
 
-# Project Name: Cool project name 🏆 
+# Project Name: idea for project 🏆 
 
-## Table of Contents
+## Table of Contents ![badge](https://img.shields.io/badge/license-undefined-blue)
 
 - [Description](#description)
 - [Installation](#installation)
 - [Toolkit](#toolkit)
 - [Licensing](#licensing)
-- [Credits](#credits)
+- [Usage](#usage)
+- [Licensing](#tests)
+- [Contributing](#contributing)
 - [Contact](#contact)
+- [Questions](#questions)
 
 ### Description 💡 <a name="description"></a>
 
-creates a readme for you 
+describe 
 
 ### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:
 
-download inquirer  
+download inquirier  
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
-JavaScript  
+JavaScript,Ruby  
 
-### Licensing <a name="licensing"></a> ![badge](https://img.shields.io/badge/license-undefined-blue)
+### Licensing <a name="licensing"></a> 
 
 This application is covered by the undefined license. 
 
-### Credits 🤝 <a name="credits"></a> 
-online guides and our homework 
+### Usage  <a name="usage"></a> 
+
+no rules 
+
+### Tests  <a name="tests"></a> 
+
+testing 
+
+### Contributing 🤝 <a name="contributing"></a> 
+
+Resources and people who contributed include: internet stuff 
+If you would like to contribute to the project further, then: say hi 
 
 ### Contact 👋 <a name="contact"></a> 
-Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
+Get in touch with me on Github: [githubhandle](https://github.com/githubhandle)
 
+### Questions <a name="questions"></a> 
+
+If you have any questions, please contact me at: emailaddress.com
 
 ###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 

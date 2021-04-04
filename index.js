@@ -22,7 +22,25 @@ function askUser() {
             message: 'What is your github handle?',
             default: 'github name',
         },
-
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email address?',
+            default: 'myname@domain.com',
+        },
+        {
+            type: 'input',
+            name: 'usage',
+            message: 'What are the rules about using this project code, materials, etc.?',
+            default: 'People can use this for anything as long as it is not commercial.',
+        },
+     
+        {
+            type: 'input',
+            name: 'tests',
+            message: 'What kind of testing was completed?',
+            default: 'I did x, y and z with testing.',
+        },
         {
             type: 'input',
             name: 'description',
@@ -43,7 +61,12 @@ function askUser() {
                 'No idea',
                 'Other']
         },
-
+        {
+            type: 'input',
+            name: 'contributing',
+            message: 'What should people do if they want to contribute to your project?',
+            default: 'Reach out on Github or via email with your plan.',
+        },
         {   // check multiple options
             type: 'checkbox',
             name: 'composition',

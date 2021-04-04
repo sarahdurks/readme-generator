@@ -6,14 +6,17 @@ function createReadMe(answers) {
 
 # Project Name: ${answers.projectName} 🏆 
 
-## Table of Contents
+## Table of Contents ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
 
 - [Description](#description)
 - [Installation](#installation)
 - [Toolkit](#toolkit)
 - [Licensing](#licensing)
-- [Credits](#credits)
+- [Usage](#usage)
+- [Licensing](#tests)
+- [Contributing](#contributing)
 - [Contact](#contact)
+- [Questions](#questions)
 
 ### Description 💡 <a name="description"></a>
 
@@ -29,16 +32,29 @@ ${answers.installation}
 
 ${answers.composition}  
 
-### Licensing <a name="licensing"></a> ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
+### Licensing <a name="licensing"></a> 
 
 This application is covered by the ${answers.licensing} license. 
 
-### Credits 🤝 <a name="credits"></a> 
-${answers.credits} 
+### Usage  <a name="usage"></a> 
+
+${answers.usage} 
+
+### Tests  <a name="tests"></a> 
+
+${answers.tests} 
+
+### Contributing 🤝 <a name="contributing"></a> 
+
+Resources and people who contributed include: ${answers.credits} 
+If you would like to contribute to the project further, then: ${answers.contributing} 
 
 ### Contact 👋 <a name="contact"></a> 
-Get in touch with me: [${answers.username}](https://github.com/${answers.username})
+Get in touch with me on Github: [${answers.username}](https://github.com/${answers.username})
 
+### Questions <a name="questions"></a> 
+
+If you have any questions, please contact me at: ${answers.email}
 
 ###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
 `;
