@@ -53,12 +53,11 @@ function askUser() {
             choices: [
                 'Apache',
                 'Artistic',
-                'Creative Commons',
+                'CC',
                 'Educational',
                 'MIT',
                 'Mozilla',
-                'Open Software',
-                'No idea',
+                'Open',
                 'Other']
         },
         {
