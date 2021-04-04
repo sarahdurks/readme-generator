@@ -11,7 +11,7 @@ function askUser(){
  return inquirer.prompt([
         {
             type: 'input',
-            name: 'name',
+            name: 'projectName',
             message: 'What is your project named?',
             default: 'The awesomest idea ever, of course!',
         },
@@ -25,7 +25,7 @@ function askUser(){
         {
             type: 'input',
             name: 'description',
-            message: 'Give me your project details - all of them, really!!',
+            message: 'Give me your project details - all of them, really!',
         },
         {
             type: 'list',
@@ -47,7 +47,7 @@ function askUser(){
             name: 'composition',
             message: 'What language(s) did you use to create your project?',
             choices: [
-                'HTML', 'CSS', 'JavaScript', 'Ruby', 'Python', 'C', 'C#', 'TypeScript', 'Other'
+                'HTML', 'CSS', 'JavaScript', 'Ruby', 'React', 'Python', 'C', 'C#', 'TypeScript', 'Other'
             ],
         },
         {
@@ -65,13 +65,9 @@ function askUser(){
             type: 'input',
             name: 'tests',
             message: 'Describe any testing processes used and/or available.',
-        },
-    ])
-    .then(answers => {
-        console.info('Answers:', answers);
-    });
-};
-
+        }
+    ]);
+} 
 async function init() {
     try {
 const answers = await askUser();
