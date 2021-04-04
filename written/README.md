@@ -32,4 +32,4 @@ No tests.
 Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
 
 
-This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
+##### This README was generated with 🧡 by [sarahdurks' README.md generator](https://github.com/sarahdurks/readme-generator) 
