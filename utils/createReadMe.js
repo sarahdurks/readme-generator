@@ -7,7 +7,7 @@ function createReadMe(answers) {
 # Project ${answers.projectName} 🏆 
 
 
-## Table of Contents
+## Table of Contents ✔️
 
 - [Description of Project](#description)
 - [Installation Instructions](#installation)
@@ -17,33 +17,32 @@ function createReadMe(answers) {
 - [Tests](#tests)
 - [Contact](#contact)
 
-### Description
+### Description 💡
 
 ${answers.description} 
 
-### Installation 
+### Installation Instructions 💾
 
 ${answers.installation}  
 
 
-### Toolkit 🧰 
+### Language Toolkit 🧰 
 
 ${answers.composition}  
 
-### Licensing 
+### Licensing 📜
 
-This application is covered by the ${answers.licensing} license. 
-![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
+This application is covered by the ${answers.licensing} license. ![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
 
 ### Credits 🤝 
 ${answers.credits} 
 
-### Tests
+### Testing Information 🤓
 ${answers.tests}
 
 
-### Contact 
-Get in touch: [${answers.username}](https://github.com/${answers.username})
+### Contact 👋
+Get in touch with me: [${answers.username}](https://github.com/${answers.username})
 
 
 This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 

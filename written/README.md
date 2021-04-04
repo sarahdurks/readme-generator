@@ -1,9 +1,9 @@
 
 
-# Project kjsdkjdsf 🏆 
+# Project name of poject 🏆 
 
 
-## Table of Contents
+## Table of Contents ✔️
 
 - [Description of Project](#description)
 - [Installation Instructions](#installation)
@@ -13,34 +13,32 @@
 - [Tests](#tests)
 - [Contact](#contact)
 
-### Description
+### Description 💡
 
-kjsdjdjks 
+stuff 
 
-### Installation
+### Installation Instructions 💾
 
- ksdksjdsk  
+stuff  
 
 
-### Toolkit 🧰 
+### Language Toolkit 🧰 
 
-Other  
+  
 
-### Licensing
+### Licensing 📜
 
-My application is covered by the undefinedlicense. 
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)
+This application is covered by the undefined license. ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
 
 ### Credits 🤝 
-sdkjskdjs 
+info 
 
-### Tests
-skdjksj
-
-
-### Contact
-
-Get in touch: [kjsdjkdskj](https://github.com/kjsdjkdskj)
+### Testing Information 🤓
+info
 
 
-This README was generated with 🧡  by [The Ultimate README.md generator]https://github.com/sarahdurks/readme-generator) 
+### Contact 👋
+Get in touch with me: [handle](https://github.com/handle)
+
+
+This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 

@@ -22,6 +22,8 @@ node index.js
 
 Then, complete the question series.
 
+Check under "written" for your new README.md file output.
+
     
 #### User Story 📖
 > AS A developer       
