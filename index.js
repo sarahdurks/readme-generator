@@ -27,7 +27,7 @@ function askUser() {
             name: 'description',
             message: 'How would you describe this project? Give me your project details - all of them, really!',
         },
-        {
+        {   // select from list
             type: 'list',
             name: 'license',
             message: 'What License is this used with? If you do not know, select no idea or other.',
@@ -43,7 +43,7 @@ function askUser() {
                 'Other']
         },
 
-        {
+        {   // check multiple options
             type: 'checkbox',
             name: 'composition',
             message: 'What language(s) did you use to create your project?',
