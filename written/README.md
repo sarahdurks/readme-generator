@@ -1,8 +1,8 @@
 
 
-# COOLPROJECT 🏆 
+# My-Project-Name 🏆 
 
-## Table of Contents ![badge](https://img.shields.io/badge/license-undefined-blue)
+## Table of Contents ![badge](https://img.shields.io/badge/license-MIT-blue)
 
 - [Description](#description)
 - [Installation](#installation)
@@ -15,7 +15,7 @@
 
 ### Description 💡 <a name="description"></a>
 
-a read me generator 
+It's a readme generator. 
 
 ### Installation 💾 <a name="installation"></a>
 
@@ -29,25 +29,25 @@ JavaScript
 
 ### Licensing ✨ <a name="licensing"></a> 
 
-This application is covered by the undefined license. 
+This application is covered by the MIT license. 
 
 ### Usage 💥 <a name="usage"></a> 
 
-no rules! 
+No rules! 
 
 ### Tests 💎  <a name="tests"></a> 
 
-i did console log testing 
+Consolelog 
 
 ### Contributing 🤝 <a name="contributing"></a> 
 
-Resources and people who contributed include: internet guides and past bootcamp homework 
+Resources and people who contributed include: my homework and internet guides 
 <br />
-If you would like to contribute to the project further, then: say hi on twitter 
+If you would like to contribute to the project further, then: Say hi on twitter 
 
 ### Questions 😊 <a name="questions"></a> 
 Get in touch with me on Github: [sarahdurks](https://github.com/sarahdurks)
 <br />
-If you have any questions, please contact me at: sarah@gmail.com
+If you have any questions, please contact me at: sarah@email.com
 
 ###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 

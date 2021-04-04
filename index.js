@@ -48,7 +48,7 @@ function askUser() {
         },
         {   // select from list
             type: 'list',
-            name: 'license',
+            name: 'licensing',
             message: 'What License is this used with? If you do not know, select no idea or other.',
             choices: [
                 'Apache',
