@@ -31,7 +31,7 @@ ${answers.credits}
 Get in touch with me: [${answers.username}](https://github.com/${answers.username})
 
 
-This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
+###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
 `;
 }
 
