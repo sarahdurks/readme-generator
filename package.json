@@ -6,7 +6,7 @@
   "author": "Sarah Durkin",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "A tool to create a README.md for all projects with node.js.",
+  "description": "A tool to create a README.md for all projects with node.js and inquirer.",
   "dependencies": {
     "inquirer": "^6.3.1"
   }
