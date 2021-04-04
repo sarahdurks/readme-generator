@@ -1,3 +1,4 @@
+
 ![Frame 28](https://user-images.githubusercontent.com/77648727/112774521-d09ef980-8fee-11eb-80c4-94ebd8b11567.png)
 
 ## Name
@@ -27,7 +28,9 @@ Check under "written" for your new README.md file output.
 
 #### Demo
 
-See here: [Video of demo](https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/view?usp=sharing) or reference in the assets file.
+<img width="1074" alt="Screen Shot 2021-04-04 at 2 11 40 PM" src="https://user-images.githubusercontent.com/77648727/113521658-bebdd900-954f-11eb-85cc-4ffee196ce02.png">
+
+Large file, so see here: [Video of demo](https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/view?usp=sharing) or reference in the assets file.
     
 #### User Story 📖
 
