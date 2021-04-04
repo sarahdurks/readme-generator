@@ -1,6 +1,6 @@
 
 
-# Project Name: The Cool Read Me Generator. 🏆 
+# Project Name: Cool project name 🏆 
 
 ## Table of Contents
 
@@ -13,13 +13,13 @@
 
 ### Description 💡 <a name="description"></a>
 
-cool stuff for sure. 
+creates a readme for you 
 
 ### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:
 
-run inquirer  
+download inquirer  
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
@@ -30,7 +30,7 @@ JavaScript
 This application is covered by the undefined license. 
 
 ### Credits 🤝 <a name="credits"></a> 
-Online guides. 
+online guides and our homework 
 
 ### Contact 👋 <a name="contact"></a> 
 Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
