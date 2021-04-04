@@ -1,38 +1,38 @@
 
 
-# Project Name: The coolest project 🏆 
+# Project Name: The Cool Read Me Generator. 🏆 
 
 ## Table of Contents
 
-- [Description](###Description)
-- [Installation](###Installation)
-- [Toolkit](###Toolkit)
-- [Licensing](###Licensing)
-- [Credits](###Credits)
-- [Contact](###Contact)
+- [Description](#description)
+- [Installation](#installation)
+- [Toolkit](#toolkit)
+- [Licensing](#licensing)
+- [Credits](#credits)
+- [Contact](#contact)
 
-###Description 💡
+### Description 💡 <a name="description"></a>
 
-A readme generator 
+cool stuff for sure. 
 
-###Installation 💾
+### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:
 
-Download inquirer from npm.  
+run inquirer  
 
-###Toolkit 🧰 
+### Toolkit 🧰 <a name="toolkit"></a>
 
 JavaScript  
 
-###Licensing ![badge](https://img.shields.io/badge/license-undefined-blue)
+### Licensing <a name="licensing"></a> ![badge](https://img.shields.io/badge/license-undefined-blue)
 
 This application is covered by the undefined license. 
 
-###Credits 🤝 
-Lots of online guides. 
+### Credits 🤝 <a name="credits"></a> 
+Online guides. 
 
-###Contact 👋
+### Contact 👋 <a name="contact"></a> 
 Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
 
 

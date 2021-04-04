@@ -8,35 +8,35 @@ function createReadMe(answers) {
 
 ## Table of Contents
 
-- [Description](###Description)
-- [Installation](###Installation)
-- [Toolkit](###Toolkit)
-- [Licensing](###Licensing)
-- [Credits](###Credits)
-- [Contact](###Contact)
+- [Description](#description)
+- [Installation](#installation)
+- [Toolkit](#toolkit)
+- [Licensing](#licensing)
+- [Credits](#credits)
+- [Contact](#contact)
 
-###Description 💡
+### Description 💡 <a name="description"></a>
 
 ${answers.description} 
 
-###Installation 💾
+### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:
 
 ${answers.installation}  
 
-###Toolkit 🧰 
+### Toolkit 🧰 <a name="toolkit"></a>
 
 ${answers.composition}  
 
-###Licensing ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
+### Licensing <a name="licensing"></a> ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
 
 This application is covered by the ${answers.licensing} license. 
 
-###Credits 🤝 
+### Credits 🤝 <a name="credits"></a> 
 ${answers.credits} 
 
-###Contact 👋
+### Contact 👋 <a name="contact"></a> 
 Get in touch with me: [${answers.username}](https://github.com/${answers.username})
 
 
