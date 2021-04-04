@@ -16,21 +16,16 @@ Here's how you setup this project:
 
 ${answers.installation}  
 
-
 ### Toolkit 🧰 
 
 ${answers.composition}  
 
-### Licensing ![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
+### Licensing ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
 
 This application is covered by the ${answers.licensing} license. 
 
 ### Credits 🤝 
 ${answers.credits} 
-
-### Tests 🤓
-${answers.tests}
-
 
 ### Contact 👋
 Get in touch with me: [${answers.username}](https://github.com/${answers.username})

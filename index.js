@@ -61,11 +61,6 @@ function askUser() {
             type: 'input',
             name: 'credits',
             message: 'Please give details about who, what, and how resources helped you in this project.',
-        },
-        {
-            type: 'input',
-            name: 'tests',
-            message: 'Describe any testing processes used and/or that are available.',
         }
     ]);
 }
