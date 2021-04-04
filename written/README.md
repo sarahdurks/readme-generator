@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Licensing](#tests)
 - [Contributing](#contributing)
-- [Contact](#contact)
 - [Questions](#questions)
 
 ### Description 💡 <a name="description"></a>
@@ -49,6 +48,8 @@ If you would like to contribute to the project further, then: say hi
 Get in touch with me on Github: [githubhandle](https://github.com/githubhandle)
 
 ### Questions <a name="questions"></a> 
+
+Get in touch with me on Github: [githubhandle](https://github.com/githubhandle)
 
 If you have any questions, please contact me at: emailaddress.com
 
