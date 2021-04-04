@@ -16,10 +16,10 @@ Use Node.js to build a program that creates an HTML portfolio page. It will use 
 npm init
 npm install inquirer
 
-To use, run the following command at th root of your project:
-
+To use, run the following command at the root of your project:
+```
 node index.js
-
+```
 Then, complete the question series.
 
     
