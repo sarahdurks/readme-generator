@@ -7,6 +7,7 @@ const createReadMe = require("./utils/createReadMe")
 const writeAsync = util.promisify(fs.writeFile);
 
 // QUESTION SERIES
+// end result is 'answers' in total
 function askUser() {
     return inquirer.prompt([
         {
@@ -69,6 +70,7 @@ async function init() {
         const answers = await askUser();
         const buildContent = createReadMe(answers);
         writeAsync('./written/README.md', buildContent);
+        // overwrites last version - no new document
         console.log('README.md successfully created in the written folder.');
     } catch (err) {
         console.log(err);
