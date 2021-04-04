@@ -5,7 +5,7 @@
 
 ### README.md Generator 🤓
 
-Use Node.js to build a program that shows a user a series of questions and creates a professional README.md output.
+A node.js program that shows a user a series of questions and creates a professional README.md output.
 
 #### Built With 🧰
 
