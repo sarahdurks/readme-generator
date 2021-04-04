@@ -9,16 +9,10 @@ Use Node.js to build a program that creates an HTML portfolio page. It will use 
 #### Built With 🧰
 
 - [x] HTML
-- [x] Node.js
 - [x] Inquirer.js
+- [x] Axios + Util
 
 ### Installation & Usage
-
-If you don't yet have inquirer, then: 
-```
-npm init
-npm install inquirer
-```
 
 To use, run the following command at the root of your project:
 
@@ -56,4 +50,7 @@ Then, complete the question series.
 #### Bootcamp Resources 
 - [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer)
-- [Tutorial Material](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts)    
+- [Tutorial Material](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts) 
+- [From callbacks to fs/promises to handle the file system in Node.js](https://dev.to/mrm8488/from-callbacks-to-fspromises-to-handle-the-file-system-in-nodejs-56p2)
+- [Axios - Promise based HTTP client for the browser and node.js](https://www.npmjs.com/package/axios)   
+- [Utils - Fast, generic JavaScript/node.js utility functions.](https://www.npmjs.com/package/utils)

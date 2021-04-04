@@ -1,14 +1,14 @@
 
-const inquirer = require('inquirer');
+// CONSTANTS USED
+const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
-
 const createReadMe = require("./utils/createReadMe")
 const writeAsync = util.promisify(fs.writeFile);
 
-
-function askUser(){
- return inquirer.prompt([
+// QUESTION SERIES
+function askUser() {
+    return inquirer.prompt([
         {
             type: 'input',
             name: 'projectName',
@@ -25,12 +25,12 @@ function askUser(){
         {
             type: 'input',
             name: 'description',
-            message: 'Give me your project details - all of them, really!',
+            message: 'How would you describe this project? Give me your project details - all of them, really!',
         },
         {
             type: 'list',
             name: 'license',
-            message: 'What License is this used with?!',
+            message: 'What License is this used with? If you do not know, select no idea or other.',
             choices: [
                 'Apache',
                 'Artistic',
@@ -39,6 +39,7 @@ function askUser(){
                 'MIT',
                 'Mozilla',
                 'Open Software',
+                'No idea',
                 'Other']
         },
 
@@ -59,24 +60,24 @@ function askUser(){
         {
             type: 'input',
             name: 'credits',
-            message: 'Please give details about who and what resources helped you in this project.',
+            message: 'Please give details about who, what, and how resources helped you in this project.',
         },
         {
             type: 'input',
             name: 'tests',
-            message: 'Describe any testing processes used and/or available.',
+            message: 'Describe any testing processes used and/or that are available.',
         }
     ]);
-} 
+}
 async function init() {
     try {
-const answers = await askUser();
-const buildContent = createReadMe(answers);
-writeAsync('./written/README.md', buildContent);
+        const answers = await askUser();
+        const buildContent = createReadMe(answers);
+        writeAsync('./written/README.md', buildContent);
         console.log('README.md successfully created.');
-    }   catch(err) {
+    } catch (err) {
         console.log(err);
-}
+    }
 }
 
-init();  
+init();

@@ -21,7 +21,7 @@ function createReadMe(answers) {
 
 ${answers.description} 
 
-### Installation
+### Installation 
 
 ${answers.installation}  
 
@@ -30,9 +30,9 @@ ${answers.installation}
 
 ${answers.composition}  
 
-### Licensing
+### Licensing 
 
-My application is covered by the ${answers.licensing}license. 
+This application is covered by the ${answers.licensing} license. 
 ![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
 
 ### Credits 🤝 
@@ -42,12 +42,11 @@ ${answers.credits}
 ${answers.tests}
 
 
-### Contact
-
+### Contact 
 Get in touch: [${answers.username}](https://github.com/${answers.username})
 
 
-This README was generated with 🧡  by [The Ultimate README.md generator]https://github.com/sarahdurks/readme-generator) 
+This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
 `;
 }
 
