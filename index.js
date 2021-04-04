@@ -69,7 +69,7 @@ async function init() {
         const answers = await askUser();
         const buildContent = createReadMe(answers);
         writeAsync('./written/README.md', buildContent);
-        console.log('README.md successfully created.');
+        console.log('README.md successfully created in the written folder.');
     } catch (err) {
         console.log(err);
     }

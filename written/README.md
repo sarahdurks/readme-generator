@@ -1,30 +1,30 @@
 
 
-# Project The Coolest Project Ever 🏆 
+# Project Name: Cool Project 2 🏆 
 
 ### Description 💡
 
-It's a readme generator. 
+Super cool stuff 
 
 ### Installation 💾
 
 Here's how you setup this project:
 
-You get started by using node.  
+Get inquirer  
 
 ### Toolkit 🧰 
 
-JavaScript,Other  
+  
 
 ### Licensing ![badge](https://img.shields.io/badge/license-undefined-blue)
 
 This application is covered by the undefined license. 
 
 ### Credits 🤝 
-Lots of online guides and NPM resources. 
+Lots of guides. 
 
 ### Contact 👋
 Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
 
 
-This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
+###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
