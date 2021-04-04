@@ -6,17 +6,6 @@ function createReadMe(answers) {
 
 # Project ${answers.projectName} 🏆 
 
-
-## Table of Contents ✔️
-
-- [Description of Project](#Description)
-- [Installation Instructions](#Installation)
-- [Languages & Tools Used](#Toolkit)
-- [License](#Licensing)
-- [Contributors and Resources](#Credits)
-- [Tests](#Tests)
-- [Contact](#Contact)
-
 ### Description 💡
 
 ${answers.description} 
