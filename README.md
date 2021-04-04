@@ -27,8 +27,7 @@ Check under "written" for your new README.md file output.
 
 #### Demo
 
-<iframe src="https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/preview"></iframe>
-
+See here: https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/view?usp=sharing or reference in the assets file.
     
 #### User Story 📖
 > AS A developer       
