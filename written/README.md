@@ -1,44 +1,35 @@
 
 
-# Project name of poject 🏆 
-
-
-## Table of Contents ✔️
-
-- [Description of Project](#description)
-- [Installation Instructions](#installation)
-- [Languages & Tools Used](#toolkit)
-- [License](#licensing)
-- [Contributors and Resources](#credits)
-- [Tests](#tests)
-- [Contact](#contact)
+# Project Name of Project 🏆 
 
 ### Description 💡
 
-stuff 
+It's a readme generator. 
 
-### Installation Instructions 💾
+### Installation 💾
 
-stuff  
+Here's how you setup this project:
+
+Download inquirer.  
 
 
-### Language Toolkit 🧰 
+### Toolkit 🧰 
 
-  
+JavaScript,Other  
 
-### Licensing 📜
+### Licensing ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
 
-This application is covered by the undefined license. ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
+This application is covered by the undefined license. 
 
 ### Credits 🤝 
-info 
+Lots of guides. 
 
-### Testing Information 🤓
-info
+### Tests 🤓
+No tests.
 
 
 ### Contact 👋
-Get in touch with me: [handle](https://github.com/handle)
+Get in touch with me: [sarahdurks](https://github.com/sarahdurks)
 
 
 This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
