@@ -1,17 +1,19 @@
 
+// Generates README.md from answers solicited in index.js via inquirer questions
+// Output formatted for markdown
 function createReadMe(answers) {
     return `
 
 # Project ${answers.name} 🏆 
 
- 
+
 ## Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Languages & Tools](#toolkit)
+- [Description of Project](#description)
+- [Installation Instructions](#installation)
+- [Languages & Tools Used](#toolkit)
 - [License](#licensing)
-- [Contributing](#credits)
+- [Contributors and Resources](#credits)
 - [Tests](#tests)
 - [Contact](#contact)
 

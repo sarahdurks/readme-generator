@@ -1,0 +1,13 @@
+
+
+
+{
+  "name": "readme-generator",
+  "author": "Sarah Durkin",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A tool to create a README.md for all projects with node.js.",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
