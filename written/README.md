@@ -1,8 +1,8 @@
 
 
-# My-Project-Name 🏆 
+# Readme Generator 3000 🏆 
 
-## Table of Contents ![badge](https://img.shields.io/badge/license-MIT-blue)
+## Table of Contents ![badge](https://img.shields.io/badge/license-No idea-blue)
 
 - [Description](#description)
 - [Installation](#installation)
@@ -15,13 +15,13 @@
 
 ### Description 💡 <a name="description"></a>
 
-It's a readme generator. 
+It's a readme generator that uses inquirer prompts. 
 
 ### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:<br />
 
-download inquirer  
+You should download inquirer.  
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
@@ -29,25 +29,25 @@ JavaScript
 
 ### Licensing ✨ <a name="licensing"></a> 
 
-This application is covered by the MIT license. 
+This application is covered by the No idea license. 
 
 ### Usage 💥 <a name="usage"></a> 
 
-No rules! 
+There are no rules. Enjoy! 
 
 ### Tests 💎  <a name="tests"></a> 
 
-Consolelog 
+Console.log testing 
 
 ### Contributing 🤝 <a name="contributing"></a> 
 
-Resources and people who contributed include: my homework and internet guides 
+Resources and people who contributed include: Many guides on the internet, stack overflow, and past homework. 
 <br />
-If you would like to contribute to the project further, then: Say hi on twitter 
+If you would like to contribute to the project further, then: say hi! 
 
 ### Questions 😊 <a name="questions"></a> 
 Get in touch with me on Github: [sarahdurks](https://github.com/sarahdurks)
 <br />
-If you have any questions, please contact me at: sarah@email.com
+If you have any questions, please contact me at: sarahdurks@gmail.com
 
 ###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
