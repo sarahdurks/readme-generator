@@ -8,8 +8,8 @@ Use Node.js to build a program that shows a user a series of questions and creat
 
 #### Built With 🧰
 
-- [x] HTML
-- [x] Inquirer.js
+- [x] HTML / Markdown
+- [x] Inquirer
 - [x] Axios
 - [x] Util
 
@@ -27,14 +27,16 @@ Check under "written" for your new README.md file output.
 
 #### Demo
 
-See here:[Video of demo](https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/view?usp=sharing) or reference in the assets file.
+See here: [Video of demo](https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPoEAdLOyWUlE/view?usp=sharing) or reference in the assets file.
     
 #### User Story 📖
+
 > AS A developer       
 > I WANT a README generator       
 > SO THAT I can quickly create a professional README for a new project       
 
 #### Acceptance Criteria ✅
+
 > GIVEN a command-line application that accepts user input       
 > WHEN I am prompted for information about my application repository       
 > THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions       
@@ -54,6 +56,7 @@ See here:[Video of demo](https://drive.google.com/file/d/1sTV3Zur2HMWV9vv7-QBpPo
 ## Acknowledgement, & Resources 🤝
 
 #### Information and Resources Used
+
 - [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer)
 - [Tutorial Material](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts) 
