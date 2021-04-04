@@ -9,35 +9,37 @@ function createReadMe(answers) {
 
 ## Table of Contents ✔️
 
-- [Description of Project](#description)
-- [Installation Instructions](#installation)
-- [Languages & Tools Used](#toolkit)
-- [License](#licensing)
-- [Contributors and Resources](#credits)
-- [Tests](#tests)
-- [Contact](#contact)
+- [Description of Project](#Description)
+- [Installation Instructions](#Installation)
+- [Languages & Tools Used](#Toolkit)
+- [License](#Licensing)
+- [Contributors and Resources](#Credits)
+- [Tests](#Tests)
+- [Contact](#Contact)
 
 ### Description 💡
 
 ${answers.description} 
 
-### Installation Instructions 💾
+### Installation 💾
+
+Here's how you setup this project:
 
 ${answers.installation}  
 
 
-### Language Toolkit 🧰 
+### Toolkit 🧰 
 
 ${answers.composition}  
 
-### Licensing 📜
+### Licensing ![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
 
-This application is covered by the ${answers.licensing} license. ![badge](https://img.shields.io/badge/license-${answers.licensing}-brightgreen)
+This application is covered by the ${answers.licensing} license. 
 
 ### Credits 🤝 
 ${answers.credits} 
 
-### Testing Information 🤓
+### Tests 🤓
 ${answers.tests}
 
 

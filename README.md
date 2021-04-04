@@ -4,13 +4,14 @@
 
 ### README.md Generator 🤓
 
-Use Node.js to build a program that creates an HTML portfolio page. It will use the command line to capture user input and place it in a JavaScript function that provides the finished HTML page as output.
+Use Node.js to build a program that shows a user a series of questions and creates a professional README.md output.
 
 #### Built With 🧰
 
 - [x] HTML
 - [x] Inquirer.js
-- [x] Axios + Util
+- [x] Axios
+- [x] Util
 
 ### Installation & Usage
 
@@ -49,7 +50,7 @@ Check under "written" for your new README.md file output.
 
 ## Acknowledgement, & Resources 🤝
 
-#### Bootcamp Resources 
+#### Information and Resources Used
 - [Official README.md Guide](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 - [Inquirer Package](https://www.npmjs.com/package/inquirer)
 - [Tutorial Material](https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts) 
