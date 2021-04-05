@@ -1,6 +1,6 @@
 
 
-# COOLPROJECT 🏆 
+# Cool Super Project 🏆 
 
 ## Table of Contents ![badge](https://img.shields.io/badge/license-MIT-blue)
 
@@ -15,17 +15,17 @@
 
 ### Description 💡 <a name="description"></a>
 
-It's a read me generator, using inquirer to prompt the user for data. 
+Tumeric pickled cardigan hot chicken cray. Coloring book put a bird on it palo santo, mumblecore drinking vinegar intelligentsia chillwave schlitz umami small batch microdosing tbh. Flannel bitters unicorn health goth four loko cronut four dollar toast intelligentsia food truck before they sold out skateboard vice deep v live-edge.  
 
 ### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:<br />
 
-download inquirer  
+Cred +1 taiyaki chia pug jianbing beard humblebrag ugh glossier kinfolk lo-fi occupy. Lomo air plant enamel pin kombucha tofu. Blog quinoa listicle photo booth gluten-free keffiyeh.   
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
-JavaScript  
+  JavaScript
 
 ### Licensing ✨ <a name="licensing"></a> 
 
@@ -33,21 +33,22 @@ This application is covered by the MIT license.
 
 ### Usage 💥 <a name="usage"></a> 
 
-No rules. 
+Tumeric pickled cardigan hot chicken cray. Coloring book put a bird on it palo santo, mumblecore drinking vinegar intelligentsia chillwave schlitz umami small batch microdosing tbh. Flannel bitters unicorn health goth four loko cronut four dollar toast intelligentsia food truck before they sold out skateboard vice deep v live-edge.  
 
 ### Tests 💎  <a name="tests"></a> 
 
-console.log testing. 
+Tumeric pickled cardigan hot chicken cray. Coloring book put a bird on it palo santo, mumblecore drinking vinegar intelligentsia chillwave schlitz umami small batch microdosing tbh. Flannel bitters unicorn health goth four loko cronut four dollar toast intelligentsia food truck before they sold out skateboard vice deep v live-edge.  
 
 ### Contributing 🤝 <a name="contributing"></a> 
 
-Resources and people who contributed include: past homework and guides listed in the main readme. 
+Resources and people who contributed include: Cred +1 taiyaki chia pug jianbing beard humblebrag ugh glossier kinfolk lo-fi occupy. Lomo air plant enamel pin kombucha tofu. Blog quinoa listicle photo booth gluten-free keffiyeh.  
 <br />
-If you would like to contribute to the project further, then: Email me directly with details. 
+
+If you would like to contribute to the project further, then: Cred +1 taiyaki chia pug jianbing beard humblebrag ugh glossier kinfolk lo-fi occupy. Lomo air plant enamel pin kombucha tofu. Blog quinoa listicle photo booth gluten-free keffiyeh.  
 
 ### Questions 😊 <a name="questions"></a> 
+
 Get in touch with me on Github: [sarahdurks](https://github.com/sarahdurks)
 <br />
-If you have any questions, please contact me at: sarah@gmail.com
 
-###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
+If you have any additional questions, please contact me at: test@emailaddress.com

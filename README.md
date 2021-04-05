@@ -5,7 +5,7 @@
 
 ### README.md Generator 🤓
 
-A node.js program that shows a user a series of questions and creates a professional README.md output.
+A node.js program that shows a user a series of inquirer-driven questions and creates a professional README.md output. The README.md is generated and found in the 'written' folder.
 
 #### Built With 🧰
 

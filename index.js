@@ -3,7 +3,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
-const createReadMe = require("./utils/createReadMe")
+const createReadMe = require("./js/createReadMe")
 const writeAsync = util.promisify(fs.writeFile);
 
 // QUESTION SERIES

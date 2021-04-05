@@ -47,14 +47,15 @@ ${answers.tests}
 
 Resources and people who contributed include: ${answers.credits} 
 <br />
+
 If you would like to contribute to the project further, then: ${answers.contributing} 
 
 ### Questions 😊 <a name="questions"></a> 
+
 Get in touch with me on Github: [${answers.username}](https://github.com/${answers.username})
 <br />
-If you have any questions, please contact me at: ${answers.email}
 
-###### This README was generated with 🧡  by [The Ultimate README.md generator](https://github.com/sarahdurks/readme-generator) 
+If you have any additional questions, please contact me at: ${answers.email}
 `;
 }
 
