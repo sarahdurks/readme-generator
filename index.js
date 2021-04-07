@@ -14,7 +14,7 @@ function askUser() {
             type: 'input',
             name: 'projectName',
             message: 'What is your project named?',
-            default: 'The awesomest idea ever, of course!',
+            default: 'The best project ever, of course!',
         },
         {
             type: 'input',
@@ -34,7 +34,7 @@ function askUser() {
             message: 'What are the rules about using this project code, materials, etc.?',
             default: 'People can use this for anything as long as it is not commercial.',
         },
-     
+
         {
             type: 'input',
             name: 'tests',
@@ -44,12 +44,12 @@ function askUser() {
         {
             type: 'input',
             name: 'description',
-            message: 'How would you describe this project? Give me your project details - all of them, really!',
+            message: 'How would you describe this project?',
         },
         {   // select from list
             type: 'list',
             name: 'licensing',
-            message: 'What License is this used with? If you do not know, select no idea or other.',
+            message: 'What License is this used with?',
             choices: [
                 'Apache',
                 'Artistic',
@@ -83,7 +83,7 @@ function askUser() {
         {
             type: 'input',
             name: 'credits',
-            message: 'Please give details about who, what, and how resources helped you in this project.',
+            message: 'Who, what, and how were you assisted in this project?',
         }
     ]);
 }
